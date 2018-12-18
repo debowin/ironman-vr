@@ -10,9 +10,9 @@ You can fly around with your boosters and shoot missiles at vehicles, tossing th
 * Iron Man Flight System using Handheld Boosters.
 * Missile Shooting System with Laser Pointers.
 * Smoke and Fire Particle Systems for:
-        * Exhaust
-        * Explosions
-        * Missile Trails
+  * Exhaust
+  * Explosions
+  * Missile Trails
 * Sound FX and BGM.
 * Haptic Feedback for Shooting and Flying.
 * Collision Detection and Physics.
