@@ -1,6 +1,6 @@
 # Simple IronMan VR Demo
 
-![[Imgur](https://i.imgur.com/vWUeMx6.jpg)](https://www.youtube.com/watch?v=r1on_N9AIQU)
+[![IronMan VR](http://i.imgur.com/vWUeMx6.jpg)](https://www.youtube.com/watch?v=r1on_N9AIQU)
 
 ## Description
 
